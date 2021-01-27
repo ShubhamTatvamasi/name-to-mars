@@ -1,3 +1,3 @@
 # name-to-mars
 
-![BoardingPass](./BoardingPass_MyNameOnFutureMission.png "BoardingPass")
+![](./BoardingPass_MyNameOnFutureMission.png)
